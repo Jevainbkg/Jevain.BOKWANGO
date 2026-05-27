@@ -1,1 +1,8 @@
-welcome to my yml configuration
+# welcome to my yml configuration
+
+title : "Jevain BOKWANGO WISOMI"
+logo : img/profil.jpeg
+description : "Portfolio Data Analyst | Data Science"
+show_download : true
+theme : jekyll-theme-minimal
+lang : en | fr
