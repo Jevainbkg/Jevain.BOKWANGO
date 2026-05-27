@@ -1,4 +1,5 @@
-# 
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Jevain%20Bokwango&fontAlignY=40&desc=Portfolio%20Data%20Analyst%20|%20Data%20Science&descAlignY=60"/>
 
 # 👋 Hi, I'm Jevain Bokwango
@@ -27,37 +28,34 @@ Currently improving my skills through hands-on projects and preparing for profes
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- SQL
-- PHP
-- HTML / CSS
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data & Analytics
-- Pandas
-- NumPy
-- Excel
-- Data Cleaning
-- Data Visualization
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF9800?style=for-the-badge)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- MySQL
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Data Science Roadmap
+### 📊 [Datascience-Roadmap](https://github.com/Jevainbkg/Datascience-Roadmap) 🔗
 Learning journey and practical exercises covering Python, SQL and Data Science concepts.
-
-🔗 Repository:  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
-### 🌦️ Weather Data Explorer
+### 🌦️ [Weather Data Explorer]()
 Weather analysis project using Open-Meteo API.
 
 Features:
@@ -68,7 +66,7 @@ Features:
 
 ---
 
-### 📈 Sales Data Analysis Project
+### 📈 [Sales Data Analysis Project](https://github.com/Jevainbkg/Projet_analyse_ventes) 🔗
 
 Sales data analysis using Python and SQL:
 
@@ -76,9 +74,6 @@ Sales data analysis using Python and SQL:
 - Customer behavior analysis
 - Aggregation and reporting
 - Data visualization
-
-🔗 Repository:  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -92,13 +87,13 @@ Sales data analysis using Python and SQL:
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with me 
 
-GitHub: [JevainBkg](https://github.com/Jevainbkg/Jevain.BOKWANGO)
+[My Github](https://github.com/Jevainbkg/Jevain.BOKWANGO)
 
-LinkedIn : [JevainBkg](https://www.linkedin.com/in/jevain-bokwango)
+[My LinkedIn](https://www.linkedin.com/in/jevain-bokwango)
 
-Email: [JevainBkg](jevainbkg@gmail.com)
+[My Gmail](jevainbkg@gmail.com)
 
 ---
 
